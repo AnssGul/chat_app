@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1004014270619",
+    "project_id": "chatpractice-fae98",
+    "storage_bucket": "chatpractice-fae98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004014270619:android:56d12af84b766548b1ae3e",
+        "android_client_info": {
+          "package_name": "com.example.chating_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004014270619-967c06cqdbi14mitfob8s8vggcp3jhl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASFLEWL6L0327eMHyOuetbarT4rCkfrkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004014270619-967c06cqdbi14mitfob8s8vggcp3jhl2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1004014270619-e0cgehbcurbrhrgjiajf0u4s5uveekaq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatingScreen"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
